@@ -12,7 +12,8 @@ Actualmente terminando de estudiar Full Stack Developer en Henry 🔰 apasionado
 •Sequelize
 --------------------------------------
 Dispuesto aprender nuevas tecnologías, para crecer tanto a nivel profesional como personal.
-📨: nicosuasnavar@gmail.com
+Contacto 📨: nicosuasnavar@gmail.com
+www.linkedin.com/in/nicolas-suasnavar
 
 ⚒ Proyecto destacado:
 
